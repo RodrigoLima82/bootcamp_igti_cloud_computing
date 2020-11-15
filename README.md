@@ -2,12 +2,12 @@
 
 Lista dos desafios propostos e resolvidos durante o BootCamp
 
-- Modulo 01: 
+- Modulo 01: Fundamentos
 
-- Módulo 02: 
+- Módulo 02: Soluções de Infraestrutura Básica
 
-- Módulo 03: 
+- Módulo 03: Soluções de Dados, Big Data e Machine Learning
 
-- Módulo 04: 
+- Módulo 04: Soluções para Desenvolvimento
 
-- Módulo 05: 
+- Módulo 05: Desafio Final
